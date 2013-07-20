@@ -1,0 +1,6 @@
+donc dans un dossier projet, on crée un main.lua
+C'est le main du projet que l'on lance avec la commande love ./ dans le dossier
+
+Types en lua : bool string nombre table function
+dynamiquement typé 
+Toutes les fonctions sont globales à part si on spécifie qu'elles sont locales
